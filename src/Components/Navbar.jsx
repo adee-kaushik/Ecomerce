@@ -2,7 +2,7 @@
     import logo from "../assets/Logo.png";
     import {IoMdSearch} from "react-icons/io";
     import {FaCartShopping} from "react-icons/fa6";
-    import Darkmode from "./darkmode";
+    import Darkmode from "./Darkmode";
 
     const menu = [
         {id:1, name: "Home", link: "/#"},
