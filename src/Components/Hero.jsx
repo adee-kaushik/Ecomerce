@@ -48,8 +48,8 @@ const Hero = () => {
              {ImageList[currentSlide].description}
         </p>
             <div className='flex gap-4 mt-6' >
-                <button onClick={prevSlide} className='bg-primary text-white px-4 py-2 rounded-full' >Prev</button>
-                <button  onClick={nextSlide} className='bg-primary text-white px-4 py-2 rounded-full'  >Next</button>
+                <button onClick={prevSlide} className='bg-gray-700 text-white px-4 py-2 rounded-full' >Prev</button>
+                <button  onClick={nextSlide} className='bg-gray-700 text-white px-4 py-2 rounded-full'  >Next</button>
 
             </div>
 

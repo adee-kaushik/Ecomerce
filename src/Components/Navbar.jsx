@@ -16,7 +16,7 @@
     function Navbar() {
         return (
             <div className="shadow-md bg-white dark:bg-gray-900 dark:text-white duration-300 relative z-40"> 
-                <div className="bg-primary/40 py-2 ml-5 mr-5 " >
+                <div className=" py-2 ml-5 mr-5 " >
                     <div className="container flex justify-between items-center">
                             <a href="#" className="font-bold text-2xl sm:text-3xl flex gap-2" >
                                 <img src={logo} alt="Logo" className="w-10 font-pacifico " /> Adify
