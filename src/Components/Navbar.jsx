@@ -19,7 +19,7 @@
                 <div className="bg-primary/40 py-2 ml-5 mr-5 " >
                     <div className="container flex justify-between items-center">
                             <a href="#" className="font-bold text-2xl sm:text-3xl flex gap-2" >
-                                <img src={logo} alt="Logo" className="w-10" /> Shopsy
+                                <img src={logo} alt="Logo" className="w-10" /> Adify
                             </a>
 
                     <div className="flex justify-between items-center gap-4" >
