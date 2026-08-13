@@ -27,7 +27,7 @@
                             <input type="text" placeholder="Search"  className="w-50 sm:w-50 group-hover:w-75 transition-all duration-300 px-2 py-1 focus:outline-none focus:border-gray-500 dark:bg-gray-800 " />
                             <IoMdSearch className="text-gray-500 group-hover:text-primary absolute top-1/2 -translate-y-1/2 right-3"  />
                         </div>
-                        <button className="bg-gradient-to-red from-primary to-secondary transition-all duration-200 text-white py-1 px-4 rounded-full flex items-center gap-3 group">
+                        <button className="bg-linear-to-r from-gray-500  to-gray-900 transition-all duration-200 text-white py-1 px-4 rounded-full flex items-center gap-3 group">
 
                                 <span className="group-hover:block hidden transition-all duration-200">order</span>
                                 <FaCartShopping className="text-xl text-white drop-shadow-sm cursor-pointer" / >
